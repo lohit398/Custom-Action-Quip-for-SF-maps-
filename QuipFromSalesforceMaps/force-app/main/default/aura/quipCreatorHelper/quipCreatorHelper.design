@@ -1,0 +1,4 @@
+<design:component>
+	<design:attribute name="eventId" label="Event Id" placeholder="Event Id" required="true"/>
+    <design:attribute name="quipLink" label="Link to Quip Document" placeholder="Quip Document" required="true"/>
+</design:component>

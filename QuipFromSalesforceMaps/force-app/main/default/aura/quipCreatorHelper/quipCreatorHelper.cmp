@@ -1,0 +1,4 @@
+<aura:component implements="lightning:availableForFlowActions" access="global" controller="DE_QuipCreatorApex">
+    <aura:attribute name="eventId" type="String" access="global" />
+    <aura:attribute name="quipLink" type="String" access="global" />
+</aura:component>
