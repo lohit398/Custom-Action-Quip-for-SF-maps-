@@ -1,0 +1,4 @@
+<design:component label="Load URL From Flow (Quip)">
+    <design:attribute name="url" label="URL" description="Quip URL to be redirected to" placeholder="https://" />
+    <design:attribute name="mode" label="Mode" description="Mode of redirect: replace or newWindow" default="" placeholder="replace" datasource="replace,newWindow" />
+</design:component>
